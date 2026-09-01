@@ -42,3 +42,10 @@ __screenshots__/
 # System files
 .DS_Store
 Thumbs.db
+
+node_modules
+
+package-lock.json
+package.json
+
+C:\Users\rogon\angular\frontend\node_modules

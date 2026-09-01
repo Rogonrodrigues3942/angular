@@ -14,6 +14,22 @@
       "id": "3",
       "name": "Sansung S20+",
       "price": 5000.89
+    },
+    {
+      "name": "Geladeira 200L - Brastemp",
+      "price": "2999.99",
+      "id": "5Indf3s"
+    },
+    {
+      "name": "Geladeira 200L - Brastemp",
+      "price": "2999.99",
+      "id": "hrZkzuJ"
+    },
+    {
+      "name": "Fogao Cook Top",
+      "price": "4999.99",
+      "id": "47poqKv"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
