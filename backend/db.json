@@ -18,17 +18,17 @@
     {
       "name": "Geladeira 200L - Brastemp",
       "price": "2999.99",
-      "id": "5Indf3s"
+      "id": "4"
     },
     {
       "name": "Geladeira 200L - Brastemp",
       "price": "2999.99",
-      "id": "hrZkzuJ"
+      "id": "5"
     },
     {
       "name": "Fogao Cook Top",
       "price": "4999.99",
-      "id": "47poqKv"
+      "id": "6"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
