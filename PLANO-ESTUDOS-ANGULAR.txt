@@ -14,16 +14,22 @@ Sem exercícios e códigos.
 
 03/09/2026  - Aula 5 -> CONCECITOS ESSENCIAIS
 
-ASSISTIDA: XX/XX/2026 
+ASSISTIDA: 03/09/2026 
 EXERCÍCIO: XX/XX/2026
 REVISÃO: XX/XX/2026
+
+Sem exercícios e códigos.
 
 --------------------------------------------------------------------------------------
-XX/09/2026  - Aula 6 -> CRIANDO APP COM O ABGULAR CLI
+05/09/2026  - Aula 6 -> CRIANDO APP COM O ABGULAR CLI
 
-ASSISTIDA: XX/XX/2026 
+ASSISTIDA: 05/XX/2026 
 EXERCÍCIO: XX/XX/2026
 REVISÃO: XX/XX/2026
+
+1 - Intslando o CLI do Angular, sua funcionar é permitir utilização do "ng". Para acessar as propriedades do Angular. Comando:
+
+npm -i -g @angular/cli
 
 --------------------------------------------------------------------------------------
 XX/09/2026  - Aula 7 -> 
