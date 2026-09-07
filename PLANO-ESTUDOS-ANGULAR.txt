@@ -23,13 +23,24 @@ Sem exercícios e códigos.
 --------------------------------------------------------------------------------------
 05/09/2026  - Aula 6 -> CRIANDO APP COM O ABGULAR CLI
 
-ASSISTIDA: 05/XX/2026 
+ASSISTIDA: 05/09/2026 
 EXERCÍCIO: XX/XX/2026
 REVISÃO: XX/XX/2026
 
 1 - Intslando o CLI do Angular, sua funcionar é permitir utilização do "ng". Para acessar as propriedades do Angular. Comando:
 
-npm -i -g @angular/cli
+npm install -g @angular/cli
+
+
+Serve para criar os componentes, módulos e elementos de html. Usar o comando "ng".
+
+ng help
+
+2 - Digite o comando para criar um novo projeto;
+
+
+Copiar o projeto do curso para minha pasta "angular".*****
+
 
 --------------------------------------------------------------------------------------
 XX/09/2026  - Aula 7 -> 
