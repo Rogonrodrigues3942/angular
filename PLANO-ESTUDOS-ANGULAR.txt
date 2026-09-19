@@ -1,10 +1,12 @@
 Seção 3: FronteEnd
 
+path: C:/Users/rogon/angular
+
 03/09/2026  - Aula 4 -> VISÃO GERAL DO ANGULAR
 
 ASSISTIDA: 03/09/2026 
 EXERCÍCIO: XX/XX/2026
-REVISÃO: XX/XX/2026
+REVISÃO: 18/09/2026
 
 Recomendo a assistir novamente a aula.
 
@@ -16,16 +18,16 @@ Sem exercícios e códigos.
 
 ASSISTIDA: 03/09/2026 
 EXERCÍCIO: XX/XX/2026
-REVISÃO: XX/XX/2026
+REVISÃO: 18/09/2026
 
 Sem exercícios e códigos.
 
 --------------------------------------------------------------------------------------
-05/09/2026  - Aula 6 -> CRIANDO APP COM O ABGULAR CLI
+05/09/2026  - Aula 6 -> CRIANDO APP COM O ANGULAR CLI
 
 ASSISTIDA: 05/09/2026 
 EXERCÍCIO: XX/XX/2026
-REVISÃO: XX/XX/2026
+REVISÃO: 18/09/2026
 
 1 - Intslando o CLI do Angular, sua funcionar é permitir utilização do "ng". Para acessar as propriedades do Angular. Comando:
 
