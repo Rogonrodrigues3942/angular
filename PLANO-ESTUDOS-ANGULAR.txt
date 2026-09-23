@@ -23,7 +23,7 @@ REVISÃO: 18/09/2026
 Sem exercícios e códigos.
 
 --------------------------------------------------------------------------------------
-05/09/2026  - Aula 6 -> CRIANDO APP COM O ANGULAR CLI
+18/09/2026  - Aula 6 -> CRIANDO APP COM O ANGULAR CLI
 
 ASSISTIDA: 05/09/2026 
 EXERCÍCIO: XX/XX/2026
@@ -45,11 +45,26 @@ Copiar o projeto do curso para minha pasta "angular".*****
 
 
 --------------------------------------------------------------------------------------
-XX/09/2026  - Aula 7 -> 
+21/09/2026  - Aula 7 -> Conhecendo os arquivos do projeto.
 
-ASSISTIDA: XX/XX/2026 
+ASSISTIDA: 21/09/2026 
 EXERCÍCIO: XX/XX/2026
-REVISÃO: XX/XX/2026
+REVISÃO: 23/09/2026
+
+1 - Qual o objetivo do arquivo "angular.json"?
+
+2 - Qual o objetivo do arquivo "main.ts"?
+
+3 - Qual o objetivo do arquivo "app.module.ts"?
+
+4 - Qual o objetivo do arquivo "app.component.ts"?
+
+5 - Qual o objetivo do arquivo "environment.ts"?
+
+5 - Qual o objetivo do arquivo "environment.prod.ts"?
+
+
+Nessa aula há explicações sobre vários componentes que estruturam o projeto. É bom assistir a aula novamente.
 
 --------------------------------------------------------------------------------------
 XX/09/2026  - Aula 8 -> 
