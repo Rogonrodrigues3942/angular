@@ -3,6 +3,8 @@
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 
+/* TODO:  as classes abaixo foram criadas para configurar os componentes do rodape da SPA.*/
+
 .red {
     color: #e35e6b;
 }
@@ -20,3 +22,6 @@ body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
     background-color: #e35e6b;
     color: #fff;
 }
+
+/* TODO: Aula 11 - footer component:   */
+/* TODO:  */

@@ -18,9 +18,23 @@ Sem exercícios e códigos.
 
 ASSISTIDA: 03/09/2026 
 EXERCÍCIO: XX/XX/2026
-REVISÃO: 18/09/2026
+REVISÃO: 23/10/2026
 
 Sem exercícios e códigos.
+
+12:30 min - Anatomia do módulos
+
+    Atributos: Declarations, Imports, Exports, Providers e Bootstrap
+    Cada atributos deve ter a declaração de components, diretivas e pipes.
+
+    Para que os compnentes, diretivas e pipes fiquem visíveis fora do módulo, 
+    devem ser exportados usando o atributo "Exports".
+
+    Imports busca módulos para o módulo, exemplo bibliotecas
+
+    Providers: declaram os services
+
+    Bootstrap: componentes que são carrregados na aplicação. é usado no módulo principal da aplicação.
 
 --------------------------------------------------------------------------------------
 18/09/2026  - Aula 6 -> CRIANDO APP COM O ANGULAR CLI
@@ -55,9 +69,23 @@ REVISÃO: 23/09/2026
 
 2 - Qual o objetivo do arquivo "main.ts"?
 
+Terá arquivos TS (transpilação JS), gerenciarámtoda a aplicação.
+
+
 3 - Qual o objetivo do arquivo "app.module.ts"?
 
+Esse arquivo é invocado pelo "main.ts". Modulariza a aplicação. "App.module" terá os arquivos que inicializará a aplicação.
+
 4 - Qual o objetivo do arquivo "app.component.ts"?
+
+Nesse arquivo ocorrerá a chamada/acesso a toda árvore de componentes da aplicação.
+Referencia app.header, app.content, app.footer e etc.
+
+Componente é como uma parte da aplicação, por exemplo o componenete visual do projeto.
+
+Componentes: HTML, CSS e TS.
+
+Acessar esses arquivos será através de uma tag. OS compnentes ficaram encapsulados.
 
 5 - Qual o objetivo do arquivo "environment.ts"?
 
@@ -67,49 +95,54 @@ REVISÃO: 23/09/2026
 Nessa aula há explicações sobre vários componentes que estruturam o projeto. É bom assistir a aula novamente.
 
 --------------------------------------------------------------------------------------
-XX/09/2026  - Aula 8 -> 
+02/11/2026  - Aula 8 -> HTML do AppComponent
+
+ASSISTIDA:02/11/2026 
+EXERCÍCIO: XX/XX/2026
+REVISÃO: XX/XX/2026
+
+--------------------------------------------------------------------------------------
+02/11/2026  - Aula 9 -> Instalar os Componentes do Material
+
+ASSISTIDA: 02/11/2026 
+EXERCÍCIO: XX/XX/2026
+REVISÃO: XX/XX/2026
+
+Sem exercícios, apenas instalação da dependência da material design.
+
+--------------------------------------------------------------------------------------
+02/11/2026  - Aula 10 -> Componentes do cabeçalho
+
+ASSISTIDA: 02/11/2026 & 23/11/2026
+EXERCÍCIO: XX/XX/2026
+REVISÃO: XX/XX/2026
+
+--------------------------------------------------------------------------------------
+XX/09/2026  - Aula 11 -> Componente rodapé
+
+ASSISTIDA: 25/11/2026 
+EXERCÍCIO: XX/XX/2026
+REVISÃO: XX/XX/2026
+
+Notas:  - Acompanhando o processo de configuração do rodapé. "footer component";
+        - Legal revisar a aula.
+
+--------------------------------------------------------------------------------------
+XX/09/2026  - Aula 12 -> Componente Navegação
 
 ASSISTIDA: XX/XX/2026 
 EXERCÍCIO: XX/XX/2026
 REVISÃO: XX/XX/2026
 
 --------------------------------------------------------------------------------------
-XX/09/2026  - Aula 9 -> 
+XX/09/2026  - Aula 13 -> Componente Início ( Home )
 
 ASSISTIDA: XX/XX/2026 
 EXERCÍCIO: XX/XX/2026
 REVISÃO: XX/XX/2026
 
 --------------------------------------------------------------------------------------
-XX/09/2026  - Aula 10 -> 
-
-ASSISTIDA: XX/XX/2026 
-EXERCÍCIO: XX/XX/2026
-REVISÃO: XX/XX/2026
-
---------------------------------------------------------------------------------------
-XX/09/2026  - Aula 11 -> 
-
-ASSISTIDA: XX/XX/2026 
-EXERCÍCIO: XX/XX/2026
-REVISÃO: XX/XX/2026
-
---------------------------------------------------------------------------------------
-XX/09/2026  - Aula 12 -> 
-
-ASSISTIDA: XX/XX/2026 
-EXERCÍCIO: XX/XX/2026
-REVISÃO: XX/XX/2026
-
---------------------------------------------------------------------------------------
-XX/09/2026  - Aula 13 -> 
-
-ASSISTIDA: XX/XX/2026 
-EXERCÍCIO: XX/XX/2026
-REVISÃO: XX/XX/2026
-
---------------------------------------------------------------------------------------
-XX/09/2026  - Aula 14 -> 
+XX/09/2026  - Aula 14 -> Navgeando entre componentes
 
 ASSISTIDA: XX/XX/2026 
 EXERCÍCIO: XX/XX/2026

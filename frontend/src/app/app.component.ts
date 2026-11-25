@@ -7,3 +7,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
 
 }
+
+//^ aula 8 - HTML do AppComponent.
