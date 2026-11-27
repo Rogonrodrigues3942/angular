@@ -118,7 +118,7 @@ EXERCÍCIO: XX/XX/2026
 REVISÃO: XX/XX/2026
 
 --------------------------------------------------------------------------------------
-XX/09/2026  - Aula 11 -> Componente rodapé
+25/09/2026  - Aula 11 -> Componente rodapé
 
 ASSISTIDA: 25/11/2026 
 EXERCÍCIO: XX/XX/2026
@@ -128,11 +128,13 @@ Notas:  - Acompanhando o processo de configuração do rodapé. "footer componen
         - Legal revisar a aula.
 
 --------------------------------------------------------------------------------------
-XX/09/2026  - Aula 12 -> Componente Navegação
+27/11/2026  - Aula 12 -> Componente Navegação
 
-ASSISTIDA: XX/XX/2026 
+ASSISTIDA: 27/11/2026 
 EXERCÍCIO: XX/XX/2026
 REVISÃO: XX/XX/2026
+
+Notas: 
 
 --------------------------------------------------------------------------------------
 XX/09/2026  - Aula 13 -> Componente Início ( Home )
